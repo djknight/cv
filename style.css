@@ -2,6 +2,10 @@ body {
     background-color: antiquewhite;
 }
 
+.proPic {
+    border-radius: 100%;
+}
+
 hr {
     background-color: white;
     border-style: none;
